@@ -18,22 +18,22 @@ I started learning Php programming with symfony which I thought was cool at firs
 
 - **Love** 👍
 
-    [![Number of follower on twitter](https://img.shields.io/badge/Html-100%25-dd4b25?style=flat-square&logo=html5)](https://github.com/Akarimichi) 
+    [![Html](https://img.shields.io/badge/Html-100%25-dd4b25?style=flat-square&logo=html5)](https://github.com/Akarimichi) 
 
-    [![Number of follower on twitter](https://img.shields.io/badge/Css-95%25-fff?style=flat-square&logo=css3)](https://github.com/Akarimichi) 
+    [![Css](https://img.shields.io/badge/Css-95%25-fff?style=flat-square&logo=css3)](https://github.com/Akarimichi) 
 
-    [![Number of follower on twitter](https://img.shields.io/badge/Javascript-95%25-ead41c?style=flat-square&logo=javascript)](https://github.com/Akarimichi) 
+    [![Javascript](https://img.shields.io/badge/Javascript-95%25-ead41c?style=flat-square&logo=javascript)](https://github.com/Akarimichi) 
 
-    [![Number of follower on twitter](https://img.shields.io/badge/Typescript-85%25-2f72bc?style=flat-square&logo=typescript)](https://github.com/Akarimichi) 
+    [![Typescript](https://img.shields.io/badge/Typescript-85%25-2f72bc?style=flat-square&logo=typescript)](https://www.typescriptlang.org/) 
 
 
-    [![Number of follower on twitter](https://img.shields.io/badge/Python-40%25-346d9d?style=flat-square&logo=python)](https://github.com/Akarimichi)
+    [![Python](https://img.shields.io/badge/Python-40%25-346d9d?style=flat-square&logo=python)](https://www.python.org/)
 
-    [![Number of follower on twitter](https://img.shields.io/badge/Shell-35%25-346d9d?style=flat-square&logo=shell)](https://github.com/Akarimichi) 
+    [![Shell](https://img.shields.io/badge/Shell-35%25-346d9d?style=flat-square&logo=shell)](https://github.com/Akarimichi) 
 
 - **Hate**👎
 
-    [![Number of follower on twitter](https://img.shields.io/badge/Php-95%25-7175aa?style=flat-square&logo=php)](https://github.com/Akarimichi) 
+    [![Php](https://img.shields.io/badge/Php-95%25-7175aa?style=flat-square&logo=php)](https://www.php.net/) 
 
 
 
@@ -41,27 +41,27 @@ I started learning Php programming with symfony which I thought was cool at firs
 
 - **Love** 👍
 
-    [![Number of follower on twitter](https://img.shields.io/badge/React-555555?style=flat-square&logo=react)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/Recoil-555555?style=flat-square&logo=react)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/Redux-555555?style=flat-square&logo=redux)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/Electron-555555?style=flat-square&logo=electron)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/Tauri-555555?style=flat-square&logo=tauri)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/Eslint-555555?style=flat-square&logo=eslint)](https://github.com/Akarimichi)
-[![Number of follower on twitter](https://img.shields.io/badge/Stylelint-555555?style=flat-square&logo=stylelint)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/React%20Native-555555?style=flat-square&logo=react)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/Rollup-555555?style=flat-square&logo=rollup.js)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/Vite-555555?style=flat-square&logo=vite)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/Webpack-555555?style=flat-square&logo=webpack)](https://github.com/Akarimichi)  
-[![Number of follower on twitter](https://img.shields.io/badge/ThreeJs-555555?style=flat-square&logo=three.js)](https://github.com/Akarimichi)
-[![Number of follower on twitter](https://img.shields.io/badge/Sass-555555?style=flat-square&logo=sass)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/NodeJs-555555?style=flat-square&logo=node.js)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/Mysql-555555?style=flat-square&logo=mysql)](https://github.com/Akarimichi) 
-[![Number of follower on twitter](https://img.shields.io/badge/Postgresql-555555?style=flat-square&logo=postgresql)](https://github.com/Akarimichi) *And more ...*
+    [![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react)](https://reactjs.org/) 
+[![Recoil](https://img.shields.io/badge/Recoil-555555?style=flat-square&logo=react)](https://recoiljs.org/) 
+[![Redux](https://img.shields.io/badge/Redux-555555?style=flat-square&logo=redux)](https://redux.js.org/) 
+[![Electron](https://img.shields.io/badge/Electron-555555?style=flat-square&logo=electron)](https://www.electronjs.org/) 
+[![Tauri](https://img.shields.io/badge/Tauri-555555?style=flat-square&logo=tauri)](https://tauri.studio/) 
+[![Eslint](https://img.shields.io/badge/Eslint-555555?style=flat-square&logo=eslint)](https://eslint.org/)
+[![Stylelint](https://img.shields.io/badge/Stylelint-555555?style=flat-square&logo=stylelint)](https://stylelint.io/) 
+[![React Native](https://img.shields.io/badge/React%20Native-555555?style=flat-square&logo=react)](https://reactnative.dev/) 
+[![Rollup](https://img.shields.io/badge/Rollup-555555?style=flat-square&logo=rollup.js)](https://rollupjs.org/guide/en/) 
+[![Vite](https://img.shields.io/badge/Vite-555555?style=flat-square&logo=vite)](https://vitejs.dev/) 
+[![Webpack](https://img.shields.io/badge/Webpack-555555?style=flat-square&logo=webpack)](https://webpack.js.org/)  
+[![ThreeJs](https://img.shields.io/badge/ThreeJs-555555?style=flat-square&logo=three.js)](https://threejs.org/)
+[![Sass](https://img.shields.io/badge/Sass-555555?style=flat-square&logo=sass)](https://sass-lang.com/) 
+[![NodeJs](https://img.shields.io/badge/NodeJs-555555?style=flat-square&logo=node.js)](https://nodejs.org/en/) 
+[![Mysql](https://img.shields.io/badge/Mysql-555555?style=flat-square&logo=mysql)](https://www.mysql.com/fr/) 
+[![Postgresql](https://img.shields.io/badge/Postgresql-555555?style=flat-square&logo=postgresql)](https://www.postgresql.org/) *And more ...*
 
 - **Hate**👎
 
-    [![Number of follower on twitter](https://img.shields.io/badge/Symfony-555555?style=flat-square&logo=symfony)](https://github.com/Akarimichi)
-[![Number of follower on twitter](https://img.shields.io/badge/Jquery-555555?style=flat-square&logo=jquery)](https://github.com/Akarimichi) 
+    [![Symfony](https://img.shields.io/badge/Symfony-555555?style=flat-square&logo=symfony)](https://symfony.com/)
+[![Jquery](https://img.shields.io/badge/Jquery-555555?style=flat-square&logo=jquery)](https://jquery.com/) 
 
 
 
